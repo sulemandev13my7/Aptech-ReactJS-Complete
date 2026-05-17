@@ -6,7 +6,7 @@ function Component() {
   return <h1>Hello</h1>;
 }
 
-function Comp () {
+function Comp() {
   return (
     <>
       <h1>Salman</h1>
