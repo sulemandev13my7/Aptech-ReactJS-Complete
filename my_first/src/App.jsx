@@ -13,16 +13,15 @@ import Services from './components/Services'
 function App() {
   return (
     <div>
-      <Header />
       <Navbar />
+      <Header />
       <Hero />
       <Card />
-      <Contact />
       <Sidebar />
-      <Footer />
-      <Contacts />
       <About />
       <Services />
+      <Contacts />
+      <Footer />
     </div>
   )
 }
